@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm James
 
-I am a self-taught developer/personal trainer. I mostly develop with JavaScript, but recently have been playing with Go, and am interested in Rust. I spend my free time messing with my homelab, playing with my dogs, and watching movies with my girlfriend.
+I am a self-taught developer/personal trainer. I mostly develop with JavaScript, but recently have been playing with Go and Python. I spend my free time messing with my homelab, playing with my dogs, and watching movies with my girlfriend.
 
 Currently seeking a job at a startup where I can apply all my skills, and be encouraged to learn more.
 
