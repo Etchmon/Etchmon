@@ -1,8 +1,10 @@
 ### 👋 Hello, I'm James
 
-I am a self-taught developer and personal trainer with a passion for Linux and PC hardware. I am proficient in frontend, backend, and full-stack development. Currently, I am learning and practicing web3 dapp development and Docker, while also building a 40k PWA that I plan to release.
+I'm a Full-Stack developer with 2 years professional experience in frontend development.
 
-I am seeking a role at a startup or mid-sized company where I can leverage my problem-solving skills and contribute to a successful team from which I can learn and grow.
+Most comfortable working with JavaScript, but have been building recent project with TypeScript, and would love to learn more about Python and GO.
+
+Currently seeking a job at a startup where I can apply all my skills, and be encouraged to grow.
 
 ### 👷 Check out what I'm currently working on
 
@@ -16,3 +18,6 @@ I am seeking a role at a startup or mid-sized company where I can leverage my pr
 - LinkedIn : <https://www.linkedin.com/in/james-etchells-240816164/>
 - Email : etch@jamesetchells.com
 
+<p align="left"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.apA skilled and enthusiastic software developer with a passion for creating high-quality software solutions.p/api?username=Etchmon&show_icons=true&theme=tokyonight" />
+</a></p>
