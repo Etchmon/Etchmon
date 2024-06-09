@@ -4,7 +4,7 @@ I'm a Full-Stack developer with 2 years professional experience in frontend deve
 
 Most comfortable working with JavaScript, but have been building recent projects with TypeScript, and would love to learn more about Python and GO.
 
-Currently seeking a job at a startup where I can apply all my skills, and be encouraged to grow.
+Currently seeking a job at a fast-paced startup where I can apply all my skills, and be encouraged to grow.
 
 ### 👷 Check out what I'm currently working on
 
